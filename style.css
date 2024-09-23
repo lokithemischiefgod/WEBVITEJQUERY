@@ -1,0 +1,30 @@
+.container {
+  width: 400px;
+  height: auto;
+  margin: 100px auto;
+  background-color: #000000;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(14, 82, 184, 0.66);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #a20000;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #380000;
+}
